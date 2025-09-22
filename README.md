@@ -1,4 +1,4 @@
 # Project_1
-This is my first git project .
+This is My First Project using Git .
 <br>
 Author = Irfan Pathan
